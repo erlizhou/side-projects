@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1424166058 source:c:\users\erlizhou\desktop\career\suitcombination\newsuitcombination.c
+	<iostream>
+	<random>
+	<vector>
+
+1424379954 source:c:\users\erlizhou\desktop\career\suitdistribution.cpp
+	<iostream>
+	<random>
+	<vector>
+
+1424380129 source:c:\users\erlizhou\desktop\career\suitcombination\newsuitcombination.cpp
+	<iostream>
+	<random>
+	<vector>
+
+1424380129 source:c:\users\erlizhou\desktop\career\suitcombination\suitdistribution.cpp
+	<iostream>
+	<random>
+	<vector>
+
